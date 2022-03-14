@@ -1,4 +1,4 @@
-### 从2022-03-13起，坚持日更 👋
+### 从 2022-03-13 起，坚持日更。 🌱
 
 <!--
 **sherlockyb/sherlockyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
