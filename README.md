@@ -1,4 +1,4 @@
-### 从 2023-02-17 起，坚持周更。 🌱
+### 世上无难事，贵在坚持。 🌱
 
 <!--
 **sherlockyb/sherlockyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
